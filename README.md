@@ -27,11 +27,6 @@ Triple-negative breast cancer is a highly aggressive and heterogeneous form of b
 ## Significance
 This project demonstrates a scalable computational framework for drug repurposing in cancer research, potentially accelerating the development of targeted therapies for TNBC.
 
-## Files and Resources
-- **Analysis Code**: Scripts for DEG analysis, PPI network generation, and LINCS-based drug prediction.
-- **Data**: Supplementary datasets for DEGs, hub genes, and drug-target networks.
-- **Figures**: Visualizations of PPI networks, drug-target interactions, and enrichment analyses.
-
 ## Citation
 If you use this repository in your work, please cite:
 
