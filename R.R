@@ -3,7 +3,7 @@ pkgs<- c("stringr", "biomaRt", "DESeq2", "BiocParallel", "clusterProfiler",
          "DOSE", "ReactomePA", "circlize", "RColorBrewer", "corrplot",
          "org.Hs.eg.db", "data.table", "tidyverse", "Hmisc", "AnnotationDbi", "ComplexHeatmap")
 lapply(pkgs, require, character.only = TRUE)
-setwd("C://Users/Shimbill/Desktop/work/R")
+setwd(/work/R)
 
 
 
